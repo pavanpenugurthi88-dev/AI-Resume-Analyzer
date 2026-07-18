@@ -41,3 +41,5 @@ requests==2.32.3
 
 # --- PDF Generation ---
 reportlab==4.2.5
+pymongo
+email-validator
